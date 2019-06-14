@@ -1,5 +1,5 @@
 {
-    "Name": "Relative Motion and Relative Disparity with passive fixation",
+    "Name": "Image segmentation Based on Relative Motion and Relative Disparity Cues (passive fixation)",
     "BIDSVersion": "1.51-rc1",
     "Authors": [
         "Peter J. Kohler", "Benoit R. Cottereau", "Anthony M. Norcia"
